@@ -1,4 +1,4 @@
-package com.outbreakSim;
+package com.outbreaksimulator.app;
 
 import java.awt.event.*;
 import javax.swing.*;
